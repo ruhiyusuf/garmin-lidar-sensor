@@ -1,0 +1,2 @@
+@reboot /home/pi/LIDARLite_RaspberryPi_Library/bin/udp_server.out
+@reboot echo "Hello world" > /tmp/helloworld.txt
