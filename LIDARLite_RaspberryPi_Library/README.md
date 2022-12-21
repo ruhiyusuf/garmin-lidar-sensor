@@ -32,8 +32,6 @@ On the 40-pin header make the following connections -
 * LLv3 Green (SCL) - RPi pin 5 (GPIO 3)
 * LLv3 Red   (5V ) - RPi pin 4
 * LLv3 Black (GND) - RPi pin 6
-
-- Wire a 680uF capacitor across pins 4 and 6
 ```
 
 Additionally, see the following tutorials for other information concerning I2C on Raspberry Pi
